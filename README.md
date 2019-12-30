@@ -1,8 +1,7 @@
 # ChallengeDailyUI
 100天每天挑戰UI設計<br /><br /><br />
 <b>Day 3  Landing Page</b><br /><br />
-硬體設備不夠,Photoshop跑gif很吃重<br />
-是時候要趕快熟悉輕量級的XD來做介面設計了<br />
+硬體設備不夠,Photoshop跑gif很吃重,是時候要趕快熟悉輕量級的XD來做介面設計了<br />
 構思和執行依然花太多時間<br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/03_Landing%20page/003.gif" width="600" >
 <br /><br /><br />
