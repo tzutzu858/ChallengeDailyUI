@@ -1,12 +1,14 @@
 # ChallengeDailyUI
 100天每天挑戰UI設計<br /><br /><br />
 <b>Day 3  Landing Page</b><br /><br />
+繼續用Day2的那隻狗狗當素材<br />
 硬體設備不夠,Photoshop跑gif很吃重,是時候要趕快熟悉輕量級的XD來做介面設計了<br />
 構思和執行依然花太多時間<br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/03_Landing%20page/003.gif" width="600" >
 <br /><br /><br />
 <b>Day 2  Credit Card Checkout</b><br /><br />
 直接沿用pet home當主題作為一個捐款的Credit Card Checkout設計<br />
+結果兩個頁面風格搭不起來<br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/02_Credit%20Card%20Checkout/002_checkout.png" width="800" >
 <br /><br /><br />
 <b>Day 1  Sign up</b><br /><br />
