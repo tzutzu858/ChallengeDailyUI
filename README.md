@@ -1,7 +1,7 @@
 # ChallengeDailyUI
 100天每天挑戰UI設計<br /><br /><br />
 <b>Day 4  Calculator</b><br /><br />
-結果時間是花在修改程式,設計感覺不要太花俏比較好<br />
+覺得計算機不需要太多花俏設計,因此直接練習實作一個APP<br />
 [老師放在Eclipse的範例](https://github.com/tzutzu858/ChallengeDailyUI/blob/master/04_Calculator/Calculator.java)
 <br />
 [Android Studio專案](https://github.com/tzutzu858/ChallengeDailyUI/tree/master/04_Calculator/day4Calculator)
