@@ -2,8 +2,9 @@
 100天每天挑戰UI設計<br /><br /><br />
 ## Day 5  App Icon
 
-設計之前職訓專案的icon<br />
+設計之前手機程式班結訓作品的icon<br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/05_App%20Icon/005icon.JPG" width="600" >
+<br /><br /><br />
 ## Day 4  Calculator
 
 覺得計算機不需要太多花俏設計,因此直接練習實作一個APP<br />
