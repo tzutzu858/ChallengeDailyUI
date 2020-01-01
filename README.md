@@ -8,7 +8,7 @@
 2.layout_span=" " 指定該單元佔據的列数<br /><br />
 [★ 老師放在Eclipse的範例](https://github.com/tzutzu858/ChallengeDailyUI/blob/master/04_Calculator/Calculator.java)
 <br />
-[★ Android Studio專案](https://github.com/tzutzu858/ChallengeDailyUI/tree/master/04_Calculator/day4Calculator)
+[★ 專案Android Studio](https://github.com/tzutzu858/ChallengeDailyUI/tree/master/04_Calculator/day4Calculator)
 <br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/04_Calculator/Calculator.gif" width="300" >
 <br /><br /><br />
