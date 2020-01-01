@@ -3,9 +3,9 @@
 ## Day 4  Calculator
 
 覺得計算機不需要太多花俏設計,因此直接練習實作一個APP<br />
-[老師放在Eclipse的範例](https://github.com/tzutzu858/ChallengeDailyUI/blob/master/04_Calculator/Calculator.java)
+[★老師放在Eclipse的範例](https://github.com/tzutzu858/ChallengeDailyUI/blob/master/04_Calculator/Calculator.java)
 <br />
-[Android Studio專案](https://github.com/tzutzu858/ChallengeDailyUI/tree/master/04_Calculator/day4Calculator)
+[★Android Studio專案](https://github.com/tzutzu858/ChallengeDailyUI/tree/master/04_Calculator/day4Calculator)
 <br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/04_Calculator/Calculator.gif" width="300" >
 <br /><br /><br />
