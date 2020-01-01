@@ -1,5 +1,13 @@
 # ChallengeDailyUI
 100天每天挑戰UI設計<br /><br /><br />
+<b>Day 4  Calculator</b><br /><br />
+結果時間是花在修改程式,設計感覺不要太花俏比較好<br />
+[老師放在Eclipse的範例](https://github.com/tzutzu858/ChallengeDailyUI/blob/master/04_Calculator/Calculator.java)
+<br />
+[Android Studio專案](https://github.com/tzutzu858/ChallengeDailyUI/tree/master/04_Calculator/day4Calculator)
+<br />
+<img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/04_Calculator/Calculator.gif" width="300" >
+<br /><br /><br />
 <b>Day 3  Landing Page</b><br /><br />
 繼續用Day2的那隻狗狗當素材<br />
 硬體設備不夠,Photoshop跑gif很吃重,是時候要趕快熟悉輕量級的XD來做介面設計了<br />
