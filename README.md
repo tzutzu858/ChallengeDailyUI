@@ -3,6 +3,9 @@
 ## Day 4  Calculator
 
 覺得計算機不需要太多花俏設計,因此直接練習實作一個APP<br />
+練習TableLayout兩個重點<br />
+1.stretchColumns="*" 表示所有列都要自動拉伸<br />
+2.layout_span=" " 指定該單元佔據的列数<br />
 [★老師放在Eclipse的範例](https://github.com/tzutzu858/ChallengeDailyUI/blob/master/04_Calculator/Calculator.java)
 <br />
 [★Android Studio專案](https://github.com/tzutzu858/ChallengeDailyUI/tree/master/04_Calculator/day4Calculator)
