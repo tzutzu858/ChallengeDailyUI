@@ -1,5 +1,11 @@
 # ChallengeDailyUI
 100天每天挑戰UI設計<br /><br /><br />
+## Day 6  User Profile
+
+第一次嘗試使用XD來做頁面轉換動畫以及圓形滑動選單<br />
+恩...也是花了不少時間,可能不熟吧<br />
+<img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/06_User%20Profile/006User-Profile.gif" width="600" >
+<br /><br /><br />
 ## Day 5  App Icon
 
 設計之前手機程式班結訓作品的icon<br />
