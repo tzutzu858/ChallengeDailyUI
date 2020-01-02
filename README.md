@@ -4,7 +4,7 @@
 
 第一次嘗試使用XD來做頁面轉換動畫以及圓形滑動選單<br />
 恩...也是花了不少時間,可能不熟吧<br />
-<img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/06_User%20Profile/006User-Profile.gif" width="600" >
+<img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/06_User%20Profile/006User-Profile.gif" width="700" >
 <br /><br /><br />
 ## Day 5  App Icon
 
