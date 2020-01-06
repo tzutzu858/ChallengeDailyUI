@@ -1,5 +1,11 @@
 # ChallengeDailyUI
 100天每天挑戰UI設計<br /><br /><br />
+## Day 7  Settings
+
+XD開關動畫要使用到組合組件,去畫兩個狀態用動畫連接,prototype裡去新增interaction<br />
+預覽時,文字沒有產生動畫,以及拖曳的動畫之後再研究<br />
+<img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/07_Settings/007settings.gif" width="700" >
+<br /><br /><br />
 ## Day 6  User Profile
 
 第一次嘗試使用XD來做頁面轉換動畫以及圓形滑動選單<br />
