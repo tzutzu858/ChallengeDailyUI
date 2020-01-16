@@ -1,5 +1,12 @@
 # ChallengeDailyUI
 100天每天挑戰UI設計<br /><br /><br />
+## Day 9  Music Player
+VideoView SeekBar 自定義View(音頻條)<br />
+有bug待修<br />
+[★ 專案Android Studio](https://github.com/tzutzu858/ChallengeDailyUI/tree/master/Day01_10/09_Music%20Player/mediaPlayer)
+<br />
+<img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/09_Music%20Player/mediaPlayer.gif" width="300" >
+<br /><br /><br />
 ## Day 8  404 Page
 
 想不到404要什麼主題,只好再度請出威爾森了<br />
