@@ -3,7 +3,7 @@
 ## Day 9  Music Player
 VideoView SeekBar 自定義View(音頻條)<br />
 有bug待修<br />
-[★ 專案Android Studio](https://github.com/tzutzu858/ChallengeDailyUI/tree/master/Day01_10/09_Music%20Player/mediaPlayer)
+[★ 專案Android Studio](https://github.com/tzutzu858/009Music-Player)
 <br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/09_Music%20Player/mediaPlayer.gif" width="300" >
 <br /><br /><br />
@@ -37,7 +37,7 @@ XD開關動畫要使用到組合組件,去畫兩個狀態用動畫連接,prototy
 2.layout_span=" " 指定該單元佔據的列数<br /><br />
 [★ 老師放在Eclipse的範例](https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/04_Calculator/Calculator.java)
 <br />
-[★ 專案Android Studio](https://github.com/tzutzu858/ChallengeDailyUI/tree/master/Day01_10/04_Calculator/day4Calculator)
+[★ 專案Android Studio](https://github.com/tzutzu858/004Calculator)
 <br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/04_Calculator/Calculator.gif" width="300" >
 <br /><br /><br />
