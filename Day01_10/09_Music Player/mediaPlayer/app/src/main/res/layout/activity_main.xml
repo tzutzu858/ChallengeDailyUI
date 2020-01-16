@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/apk/res"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/musicbg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="wrap_content"
+        android:layout_height="230dp"
+        android:visibility="invisible" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/edtMediaGoto"
+                android:layout_width="60sp"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:visibility="gone" />
+
+            <ImageButton
+                android:id="@+id/btnMediaGoto"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="@drawable/button"
+                android:src="@android:drawable/ic_menu_directions"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@color/top_color"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ToggleButton
+                android:id="@+id/btnMediaRepeat"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="@drawable/button" />
+
+            <ImageButton
+                android:id="@+id/btnMediaPlayPause"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="@mipmap/bottom_bg"
+                android:src="@android:drawable/ic_media_play" />
+
+            <ImageButton
+                android:id="@+id/btnMediaStop"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="@drawable/button"
+                android:src="@android:drawable/ic_menu_close_clear_cancel" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.app.myapp.AudioBarChart
+        android:id="@+id/studioBar"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:visibility="invisible"
+        custom:count="30"
+        custom:downColor="@color/down_color"
+        custom:topColor="@color/top_color" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:progressDrawable="@drawable/seekbar_progress"/>
+
+</LinearLayout>
