@@ -1,5 +1,10 @@
 # ChallengeDailyUI
 100天每天挑戰UI設計<br /><br /><br />
+## Day 8  404 Page
+
+想不到404要什麼主題,只好再度請出威爾森了<br />
+<img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/08_404%20Page/008_404-01.png" width="700" >
+<br /><br /><br />
 ## Day 7  Settings
 
 XD開關動畫要使用到組合組件,去畫兩個狀態用動畫連接,prototype裡去新增interaction<br />
