@@ -11,7 +11,7 @@
 <br />
 另一種Social Share寫法不到20行就寫完了<br />
 App指定接收某些意圖，讓App收到這個意圖，如果有多個App都指定接收這個意圖時，<br />
-Android就會將這些App列出清單，使用者就可以自行選擇要用哪一種APP分享<br />
+Android就會將這些App列出清單，使用者可以自行選擇要用哪一種APP分享<br />
 如果讓Android列出的APP清單不要某些特定APP,可以參考[這篇](https://stackoverflow.com/questions/9730243/how-to-filter-specific-apps-for-action-send-intent-and-set-a-different-text-for)<br /><br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/10_Social%20Share/010social_share-01.png" width="700" >
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/10_Social%20Share/20200116_223636.gif" width="250" >
