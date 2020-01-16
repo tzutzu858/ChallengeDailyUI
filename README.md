@@ -1,5 +1,10 @@
 # ChallengeDailyUI
 100天每天挑戰UI設計<br /><br /><br />
+## Day 11  Flash Message
+Design a Flash Message with both the outcome for an error and success. Is it for a sign up form? A download/upload message? (As always, it's up to you!)<br />
+
+<br /><br /><br />
+
 ## Day 10  Social Share
 
 [★ 專案Android Studio](https://github.com/tzutzu858/010Social-Share)<br /><br />
