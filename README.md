@@ -25,7 +25,6 @@ Android就會將這些App列出清單，使用者可以自行選擇要用哪一�
 <br /><br /><br />
 ## Day 9  Music Player
 VideoView SeekBar 自定義View(音頻條)<br />
-有bug待修<br />
 [★ 專案Android Studio](https://github.com/tzutzu858/009Music-Player)
 <br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/09_Music%20Player/mediaPlayer.gif" width="300" >
