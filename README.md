@@ -48,7 +48,7 @@ XD開關動畫要使用到組合組件,去畫兩個狀態用動畫連接,prototy
 <br /><br /><br />
 ## Day 5  App Icon
 
-設計之前手機程式班結訓作品的icon<br />
+icon 設計<br />
 <img src="https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/05_App%20Icon/005icon.JPG" width="600" >
 <br /><br /><br />
 ## Day 4  Calculator
@@ -57,7 +57,7 @@ XD開關動畫要使用到組合組件,去畫兩個狀態用動畫連接,prototy
 練習TableLayout兩個重點<br />
 1.stretchColumns="*" 表示所有列都要自動拉伸<br />
 2.layout_span=" " 指定該單元佔據的列数<br /><br />
-[★ 老師放在Eclipse的範例](https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/04_Calculator/Calculator.java)
+[★ java 範例](https://github.com/tzutzu858/ChallengeDailyUI/blob/master/Day01_10/04_Calculator/Calculator.java)
 <br />
 [★ 專案Android Studio](https://github.com/tzutzu858/004Calculator)
 <br />
